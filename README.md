@@ -1,3 +1,4 @@
+# This is release's readme.
 # Misakiii's Crosshair
 
 > 基于cpp和SDL3的屏幕准星显示工具，用于在屏幕显示自定义准星。
